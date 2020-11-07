@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Loja Turma12/1.0.0": {
+        "runtime": {
+          "Loja Turma12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loja Turma12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
